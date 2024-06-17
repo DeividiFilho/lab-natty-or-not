@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# DIO
 
 ## 📒 Descrição
 Este projeto visa explorar a criação de conteúdo esteticamente agradável e visualmente impactante utilizando tecnologias de inteligência artificial generativa. O foco é combinar arte e tecnologia para produzir resultados únicos e inovadores.
